@@ -6,9 +6,10 @@ I know there are a lot of tools for network scanning but when i was trying **net
 **usage :**
    ##### run : `sudo python3 network_scanner.py` 
 
+**Cheat Sheets of Scapy**
 
-[Cheat Sheets of Scapy](/ScapyScheatSheets/scapycheatsheet1.png)
-[Cheat Sheets of Scapy](/ScapyScheatSheets/scapycheatsheet2.png)
+![Cheat Sheets of Scapy](https://github.com/mh-shifat/Network-Scanner/blob/master/ScapyCheatSheets/scapycheatsheet1.png)<br>
+![Cheat Sheets of Scapy](https://github.com/mh-shifat/Network-Scanner/blob/master/ScapyCheatSheets/scapycheatsheet2.png)
 
 
 **Under Development**
